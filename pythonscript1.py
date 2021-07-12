@@ -1,10 +1,10 @@
 #!/usr/bin/python
 
 print "Hello World!"
-myname = 'Meir Lazar'
+myname = 'Me'
 myage = 35
 myweight = 150
-mycity = 'Baltimore'
+mycity = 'LA'
 
 
 # This is a while loop with the variable i looping until it is not less than 1000. Identation is CRUCIAL.
